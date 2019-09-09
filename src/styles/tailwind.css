@@ -1,0 +1,9 @@
+@tailwind base;
+
+@tailwind components;
+
+.router-link-exact-active{
+    @apply border-b border-gray-500 text-gray-500;
+}
+
+@tailwind utilities;
